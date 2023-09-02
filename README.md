@@ -1,5 +1,10 @@
 # HHE
 Landslide Susceptibility Assessment - Ensemble Comparison
+
+https://link.springer.com/article/10.1007/s11356-023-26247-3
+
+DOI: https://doi.org/10.1007/s11356-023-26247-3
+
 Overview
 This study aims to compare the performance of different ensemble models for landslide susceptibility assessment. The ensembles include both heterogeneous and homogeneous ensemble types, each with its set of base learners. The study also evaluates the ensembles using various metrics and conducts sensitivity analysis to assess the importance of different factors.
 
