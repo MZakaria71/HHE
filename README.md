@@ -1,4 +1,4 @@
-# HHE
+# A comparative study of heterogeneous and homogeneous ensemble approaches for landslide susceptibility assessment
 Landslide Susceptibility Assessment - Ensemble Comparison
 
 https://link.springer.com/article/10.1007/s11356-023-26247-3
